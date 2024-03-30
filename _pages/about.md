@@ -23,36 +23,49 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: &nbsp;🎉🎉 Landing at HK PolyU
+- *2023.09*: &nbsp;🎉🎉 Commencing my second internship at Alibaba group 
+
+# 📖 Educations
+- *2024.01 - Present*, Ph.D in The Hong Kong Polytechnic University, supervised by [Prof. Emma WANG](https://www.polyu.edu.hk/bme/people/academic-staff/dr-emma-wang/)
+- *2022.09 - 2023.12 (no degree)*, Ph.D in Northwestern Polytechnical University, actively quit without obtaining degree
+- *2018.09 - 2022.06*, B.Eng in Northwestern Polytechnical University
+
+# 💻 Internships
+- *2023.09 - Present*, Research Intern, Damo Academy, Alibaba Group, supervised by [Lei SHANG](https://scholar.google.com/citations?user=WO1eMcIAAAAJ&hl=zh-CN) and [Baigui SUN](https://scholar.google.com/citations?user=ZNhTHywAAAAJ&hl=zh-CN)
+- *2020.12 - 2021.02*, Algorithm Intern, Beijing Whyhow Information, supvervised by Prof. Jun FANG
+
+# 🎖 Honors and Awards
+- *2023.09*, 博士生国家奖学金 (National Scholarship for Ph.D student), Northwestern Polytechnical University
+- *2022.06*, 优秀本科毕设 (Excellent Undergraduate Dissertation), Northwestern Polytechnical University
+- *2021.09*, 本科生国家奖学金 (National Scholarship for U.G. student), Northwestern Polytechnical University 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Juncheng Wang**, Jindong Wang, Xixu Hu, Shujun Wang, Xing Xie. "Frustratingly Easy Model Generalization by Dummy Risk Minimization", Preprint, 2023. [[Paper](https://arxiv.org/abs/2308.02287)]
+- **Juncheng Wang**, Junyu Gao, Yuan Yuan, Qi Wang. "Crowd Localization from Gaussian Mixture Scoped Knowledge and Scoped Teacher", IEEE Transactions on Image Processing (T-IP), 2023.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10064010)]
+- Qi Wang, **Juncheng Wang**, Junyu Gao, Yuan Yuan, Xuelong Li. "Counting Like Human: Anthropoid Crowd Counting on Modeling the Similarity of Objects". Preprint, 2022. [[Paper](https://arxiv.org/abs/2212.02248)]
+- **Juncheng Wang**, Siyue Ren, Jie Geng. "Learning from Noisy Labeled Data via Sharpen Prediction Loss and Re-Correction", IEEE International Conference on Control, Automation and Information Sciences (ICCAIS), 2021. [[Paper](https://ieeexplore.ieee.org/document/9624662)]
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+# 🏃 Competitions
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- *2021.09*, "*HawkEye* Robotic Garbage Sorting System", [中国高校智能机器人创意大赛](https://www.robotcontest.cn/datacenter), National Third Prize
+- *2020.11*, "*WuKong* Intelligent Object Collecting and Moving Wheeled Robot", [中国机器人大赛](http://crc.drct-caa.org.cn/), National First Prize
+- *2020.05*, "Amazon E-commerce Data Analysis", [The Mathematical Contest in Modeling](https://www.comap.com/contests/mcm-icm), Honorable Reward
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 👬 Collaborating Friends (Sorted as alphabet)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Dr. Jindong Wang, Microsoft Research
+- Mr. Linwei Tao, University of Sydney
+- Ms. Siyue Ren, Northwestern Polytechnical University
+- Dr. Wang Lu, Tsing Hua Univeristy
+- Ms. Xixu Hu, City University of Hong Kong
+- Mr. Ziqi Liu, Tsing Hua Univeristy
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎓 Academic Service
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Conference Reviewer*: AAAI'24, ECCV'24
+- *Jounal Reviewer*: IEEE T-IP, IEEE T-NNLS, IEEE T-CSVT, CVIU, Neurocomputing
+
