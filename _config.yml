@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Juncheng Wang"
-description              : "Ph.D. Student at The Hong Kong Polytechnic University, researching world models, multi-modality content generation, diffusion models, and reinforcement learning."
+description              : "world models, multi-modality content generation"
 repository               : "wjc2830/JunchengWang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/avatar.jpg"
   bio              : "Ph.D. Student @ PolyU"
   location         : "Hong Kong"
-  employer         : "The Hong Kong Polytechnic University"
+  employer         :
   pubmed           : 
   googlescholar    : 
   email            : "wjc2830@gmail.com"

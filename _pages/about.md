@@ -23,13 +23,19 @@ I am a Ph.D. student at **The Hong Kong Polytechnic University** (QS: 54th, USNe
 
 My research interests span a spectrum of **world models**, **multi-modality content generation**, **omni-language models**, **diffusion models**, and **reinforcement learning**. I am interested in advancing cooperative multi-modal artificial intelligence generative content (MMAIGC) by addressing key challenges in real-time interactive content generation. Specifically, my research draws on foundational mechanisms and principles from MMAIGC, and operationalizes them into world models capable of exhibiting multi-modality generation.
 
-**Skills:** Generative Language Model Pre-Training/Fine-tuning/RL Post-Training, Diffusion (Flow) Model Fine-tuning, Image/Video/Audio Tokenizer Training, Distribution Matching Distillation, 3D Gaussian Splatting.
+
+# 🛠 Skills
+- Generative Language Model Pre-Training/Fine-tuning/RL Post-Training
+- Diffusion (Flow) Model Fine-tuning
+- Image/Video/Audio Tokenizer Training
+- Distribution Matching Distillation
+- 3D Gaussian Splatting
 
 
 # 🔥 News
 - *2026.01*: Started research internship at **Advanced Micro Devices (AMD)** working on efficient generative models.
-- *2025.09*: One paper accepted to **ICLR 2026** (oral presentation).
-- *2025.09*: One paper accepted to **EACL 2026** (main conference).
+- *2026.01*: One paper accepted to **ICLR 2026** (oral presentation).
+- *2026.01*: One paper accepted to **EACL 2026** (main conference).
 - *2025.07*: One paper accepted to **EMNLP 2025** (oral presentation).
 - *2025.02*: One paper accepted to **CVPR 2025**.
 
